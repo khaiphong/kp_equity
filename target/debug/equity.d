@@ -1,0 +1,1 @@
+/home/batien/Kp/GitSrc/github.com/khaiphong/kp_equity/target/debug/equity: /home/batien/Kp/GitSrc/github.com/khaiphong/kp_equity/equity/src/main.rs /home/batien/Kp/GitSrc/github.com/khaiphong/kp_equity/lib/src/lib.rs
